@@ -1,4 +1,4 @@
-# 🚗 Calculadora de Custos para Motoristas de Aplicativo
+Calculadora de Custos para Motoristas de Aplicativo
 
 Este projeto é uma calculadora desenvolvida com **HTML, CSS e JavaScript** que auxilia motoristas de aplicativos (como Uber e 99) a estimar os custos de operação e seus lucros líquidos diários, semanais e mensais.
 
